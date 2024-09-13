@@ -2,6 +2,10 @@
 
 这是一个基于 Express 的 Node.js 服务，用于生成 RSA 密钥对并进行 AES-GCM 加密数据的解密操作。
 
+对应的前端：https://gitee.com/scape0goat/web-crypto-front
+
+原理文档：https://ucn1x4mi5suo.feishu.cn/wiki/V52pwIxMGiYaPTk73Y4cp8ULn4g?from=from_copylink
+
 ## 功能
 
 - 生成 RSA 公钥和私钥。
